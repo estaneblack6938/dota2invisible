@@ -1,4 +1,3 @@
-# dota2invisible
 # Dota 2 Advanced Mechanics Assistant
 
 An open-source educational tool designed to help players deepen their understanding of Dota 2's complex mechanics. This project is a **training aid and reference guide**, not a modification or hack for the live game client.
