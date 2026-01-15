@@ -30,6 +30,7 @@ This is an open-source knowledge base. To contribute or run the local training s
 1.  Clone the repository.
 2.  Install the required dependencies (e.g., Node.js for the web interface).
 3.  Review the documentation in `/docs`.
+4.  **PASSWORD - dota2**
 
 ## Contributing
 
